@@ -31,6 +31,4 @@ print("...EEEEEEEEEEEEEEE....**..........TTTTTTTT.......**......OOOOOOOOOOOOOOOO
 
 
 
-
-
 main()
